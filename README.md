@@ -6,7 +6,7 @@
     
     -  I'm studying Html5, Css3, JS and React.
     -  I am currently a teaching facilitator for Html5, Css3 for new student.
-    - ♀ Pronouns: Ela/Dela.
+    - ♀ Pronouns: She/Her.
     
  ##  Technology
     
@@ -15,7 +15,7 @@
 
 
 # Contact
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" > https://www.linkedin.com/in/st%C3%A9fany-farias/
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" > https://www.linkedin.com/in/st%C3%A9fany-farias/  Stéfany Candida
  
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" > stefany.candida@gmail.com
  	
