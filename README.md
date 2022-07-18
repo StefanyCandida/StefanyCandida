@@ -36,5 +36,5 @@
   <div style="display: flex">
 <p><a href = "mailto:stefany.candida@precisaser.org"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a></p>
 
- <p> <a href="https://www.linkedin.com/in/st%C3%A9fany-farias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
+ <p> <a href="https://www.linkedin.com/in/stefanycandida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 </div>
