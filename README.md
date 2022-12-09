@@ -4,10 +4,8 @@
   
 ## About me
     
-    -  I'm studying Html5, Css3, JS and React.
-  
-    -  I am currently a teaching facilitator for Html5, Css3 for new student.
-    
+    -  I'm studying Html5, Css3, JS, React and Vue.  
+      
     -  My pronouns: She/Her ♀♀
     
  ##  Technology
