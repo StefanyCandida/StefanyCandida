@@ -4,9 +4,9 @@
   
 ## About me
     
-    -  I'm studying Html5, Css3, JS, React and Vue.  
+    -  I'm dev frontend jr III in  Vue/js.  
       
-    -  My pronouns: She/Her ♀♀
+    -  My pronouns: She/Her ♀
     
  ##  Technology
     
