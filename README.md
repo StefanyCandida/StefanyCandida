@@ -15,7 +15,7 @@
   <img align="center" alt="CSS" width="65" height="45"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" width="65" height="45"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" width="65" height="45"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Vue" width="65" height="45"  src="https://user-images.githubusercontent.com/41644376/73791106-c26e9800-47b2-11ea-88ab-f871b81cb97d.png">
+  <img align="center" alt="Vue" width="65" height="45"  src="https://www.technicalife.net/wp-content/uploads/2022/11/logo.png">
   </div>
   
  
